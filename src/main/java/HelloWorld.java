@@ -5,5 +5,7 @@ public class HelloWorld {
 
         MyUtilities mu = new MyUtilities();
         mu.show();
+
+        System.out.println("Modified from Mint vbox!");
     }
 }
