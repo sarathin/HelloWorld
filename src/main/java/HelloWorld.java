@@ -10,5 +10,7 @@ public class HelloWorld {
         System.out.println("Successful in check in/check out from GitHub between Windows PC & Mint Virtual Box!!");
 
         //Not seeing the updates in GitHub
+
+        System.out.println("It is working fine. GitHub was just slow in showing the commit! Nothing to worry -from Mint virtual box");
     }
 }
