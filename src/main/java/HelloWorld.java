@@ -12,5 +12,7 @@ public class HelloWorld {
         //Not seeing the updates in GitHub
 
         System.out.println("It is working fine. GitHub was just slow in showing the commit! Nothing to worry -from Mint virtual box");
+
+        System.out.println("This line was added from Mac Pro!");
     }
 }
